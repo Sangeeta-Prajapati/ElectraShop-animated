@@ -29,7 +29,7 @@ A modern, responsive electronics e-commerce website built with React, Vite, and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sangeeta-Prajapati/Animation-project.git
+git clone https://github.com/Sangeeta-Prajapati/ElectraShop-animated.git
 ```
 
 2. Navigate to the project directory:
